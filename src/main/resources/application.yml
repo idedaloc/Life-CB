@@ -1,0 +1,12 @@
+rev1:
+  username: j
+  password: j
+  url: 1234
+
+---
+
+spring:
+  profiles: de
+
+rev1:
+  password: 1234
